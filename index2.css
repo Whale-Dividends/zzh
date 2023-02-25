@@ -1,0 +1,667 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+   
+}
+
+.allcontainer {
+    background-color: whitesmoke;
+}
+
+.uppertitle {
+    margin: 0px auto;
+    width: 360px;
+    height: 80px;
+    background-color: rgb(33, 62, 247);
+
+
+}
+
+.whale {
+    margin-left: 50px;
+    color: rgb(33, 62, 247);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h4 {
+    opacity: 0.5;
+    margin-top: -20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+}
+
+.h41 {
+
+    margin-top: -10px;
+    opacity: 1;
+    margin-left: 1px;
+}
+img {
+    width: 60px;
+    margin-top: 5px;
+    opacity: 1;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+.myaccount{
+width: 300px;
+    height: 230px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 80px;
+    padding-left: 50px;
+  padding-top: 10px;
+
+
+
+    margin: 0px auto;
+       
+
+}
+
+.container6{
+    margin-top: -10px;
+}
+.exit{
+   display: block;
+   margin-top: 10px;
+   margin-left: 90px;
+   width:80px;
+   height: 30px;
+   font-size: 20px;
+   font-family: Arial, Helvetica, sans-serif;
+   padding-left: -20px;
+    border-radius: 20px;
+    background-color: red;
+        color: white;
+        border: 1px solid red;
+        padding-left: 30px;
+        padding-top: 8px;
+ 
+}
+
+.exit4{
+
+    display: block;
+        margin-top: 10px;
+        margin-left: 100px;
+        width: 80px;
+        height: 30px;
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-left: -20px;
+        border-radius: 20px;
+        background-color: red;
+        color: white;
+        border: 1px solid red;
+        padding-left: 5px;
+        padding-top: -2px;
+        
+
+}
+
+.account{
+    margin-left: 100px;
+    display: block;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        border-radius: 20px;
+        background-color: blue;
+        color: white;
+        border: 1px solid blue;
+    width: 130px;
+    padding-left: 10px;
+    margin-left: 80px;
+    cursor: pointer;
+
+}
+.your{
+    text-transform: uppercase;
+    opacity: 0.8;
+    margin-left: 50px;
+}
+.login{
+    width: 230px;
+    height: 30px;
+    margin-left: 40px;
+}
+
+.login1 {
+    width: 20px;
+    height: 34px;
+    margin-left: 30px;
+    background-color: gray;
+    margin-top: -34px;
+}
+.container3{
+    margin-top: 10px;
+    margin: 0px auto;
+}
+.allform{
+    width: 250px;
+    height: 390px;
+    margin-left: 70px;
+    box-shadow: 1px 1px 10px 10px rgb(191, 185, 185);
+    margin: 0px auto;
+}
+hr{
+    margin-left: -40px;
+}
+.allform2{
+    width: 180px;
+    height: 35px;
+    background-color: blue;
+  padding-left: 70px;
+  padding-top: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+    cursor: pointer;
+    list-style: none;
+}
+.pay1{
+    text-decoration: none;
+        color: blue;
+        cursor: pointer;
+        list-style: none;
+
+}
+
+.yourlogin{
+    width: 360px;
+    height: 200px;
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: -600px;
+}
+.ac{
+    margin-left: 15px;
+padding-top: 10px;
+width: 400px;
+font-size: 20px;
+}
+.you{
+    margin-top: -20px;
+    margin-left: 20px;
+}
+.address{
+    width: 280px;
+    margin-left: 60px;
+    height: 20px;
+    margin-left: 15px;
+}
+.adiv{
+    width: 20px;
+    height: 24px;
+    background-color: blue;
+margin-left: 20px;
+
+}
+.kindly{
+    width: 400px;
+    margin-left: 20px;
+    display: flex;
+}
+.exit1{
+    list-style: none;
+    text-decoration: none;
+   
+    
+}
+.yourlogi{
+    width: 360px;
+        height: 200px;
+        background-color: white;
+        color: black;
+        border-radius: 50px;
+        margin-top: 10px;
+        margin-left: 20px;
+
+
+}
+.de{
+    padding-top: 80px;
+    margin-left: 20px;
+}
+.WITHDRAW{
+    font-size: 20PX;
+
+   padding-top: 50px;
+   margin-top: -600px;
+   margin-left: 50px;
+}
+.pay{
+    margin-top: 500px;
+}
+
+.well2 {
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    width: 15px;
+    height: 10px;
+    color: black;
+    margin-top: 50px;
+    padding-top: 2px;
+    margin-top: -30px;
+    margin-left: 150px;
+    margin-top: -300px;
+    margin: 0px auto;
+}
+
+.well1 {
+    margin-left: -17px;
+    padding-top: 77px;
+    color: white;
+
+    opacity: 1;
+}
+.WITHDRAW1 {
+    font-size: 20PX;
+
+    padding-top: 50px;
+    margin-top: 450px;
+    margin-left: 50px;
+}
+.yourlogi1 {
+    width: 360px;
+    height: 100px;
+    background-color: white;
+    color: black;
+    margin-top: -20px;
+    margin-left: 25px;
+ 
+}
+.kindly{
+    margin-left: -17px;
+    margin-top: 20px;
+}
+.con1{
+    margin-left: -130px;
+    margin-top: -30px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.con6{
+        margin-left: -100px;
+            margin-top: -30px;
+            margin-left: -200px;
+}
+.con10 {
+    margin-left: -100px;
+    margin-top: -30px;
+    margin-left: -150px;
+
+}
+.con11 {
+    margin-left: -100px;
+    margin-top: -30px;
+    margin-left: -180px;
+}
+.con20{
+    margin-left: -250px;
+    text-transform: lowercase;
+}
+.usd{
+    font-family:sans-serif;
+}
+.exit4{
+    padding-top: 10px;
+    padding-left: 20px;
+    width: 70px;
+}
+
+.account1 {
+    margin-left: 100px;
+    display: block;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    width: 130px;
+    padding-left: 20px;
+    margin-left: 80px;
+    padding-top: 10px;
+
+}
+
+.account6 {
+    margin-left: 100px;
+    display: block;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    border: 1px solid blue;
+    width: 130px;
+    padding-left: 20px;
+    margin-left: 80px;
+    padding-top: 5px;
+}
+.de{
+padding-top: 3px;
+font-size: 20px;
+margin-top: 50px;
+
+
+}
+.dateandtime{
+    display: flex;
+   padding-top: 30px;
+}
+.dola{
+    margin-top: 100px;
+    margin-left: 100px;
+    opacity: 1;
+}
+.button{
+    margin-left: 200px;
+    margin-top: 10px;
+
+    cursor: pointer;
+}
+.yourlogin16 {
+   
+    color: black;
+    border-radius: 20px;
+    margin-top: -20px;
+    width: 360px;
+    background-color: white;
+   
+    
+}
+.dateme{
+    margin-left: 10px;
+    width: 400px;
+    
+}
+
+.uppertext{
+    margin: 0px auto;
+    
+}
+
+.myaccount{
+    margin: 0px auto;
+
+}
+.whale{
+    margin: 0px auto;
+
+}
+.con12 {
+    margin-top: -40px;
+    margin-left: -50px;
+    text-transform: capitalize;
+
+}
+
+
+
+@media screen and (min-width:360px) {
+    .uppertitle {
+        margin: 0px auto;
+        width: 360px;
+        height: 80px;
+        background-color: rgb(33, 62, 247);
+
+
+    }
+
+    .allcontainer {
+        width: 360px;
+
+        margin: 0px auto;
+    }
+
+    .container3 {
+        width: 300px;
+    }
+
+    .con20 {
+        margin-left: 60px;
+    }
+
+    .con1 {
+        margin-left: 20px;
+    }
+
+    .con2 {
+        margin-left: -100px;
+    }
+
+
+
+
+    .container3 {
+        width: 300px;
+    }
+
+    .con {
+        margin-left: 20px;
+    }
+
+    .con1 {
+        margin-left: -90px;
+    }
+
+    .con2 {
+        margin-left: -100px;
+    }
+
+    .container3 {
+        width: 300px;
+    }
+
+    .container10 {
+        width: 300px;
+    }
+
+    .container4 {
+        width: 300px;
+    }
+
+    .container5 {
+        width: 300px;
+    }
+}
+.allcontainer{
+  
+    width: 360px;margin: 0px auto;
+}
+.yourlogin16{
+    margin-left: -20px;
+    width: 340px;
+    height: 180px;
+}
+.con1{
+    margin-left: 2px;
+
+}
+.con20{
+    margin-left: -130px;
+    font-size: 15px;
+    margin-top: -85px;
+   
+}
+.con6{
+    margin-left: -100px;
+}
+.con10 {
+    margin-left: -100px;
+}
+.con11 {
+    margin-left: -100px;
+}
+.allcontainer {
+    width: 360px;
+    
+    
+}
+.de{
+    margin-left: -5px;
+    width: 300px;
+    text-align: center;
+}
+.yourlogi1{
+    margin-left:3px;
+    width: 300px;
+    
+}
+.dateandtime{
+    margin-left: -34px;
+}
+.myaccount{
+    width: 250px;
+}
+.login31{
+    margin-top: 30px;
+    margin-left: -45px;
+}
+.login{
+    margin-left: -10px;
+}
+.your{
+    margin-left: 20px;
+}
+.login1{
+width: 30px;
+height: 35px;
+background-color: gray; 
+margin-left: -30px;
+margin-top: -35px;   
+}
+.uppertitle{
+    width: 360px;
+}
+.account{
+    margin-left: 30px;
+}
+.exit{
+    margin-left: 38px;
+
+}
+
+.yourlogi{
+    margin: px auto;
+    margin-left: -20px;
+    width: 340px;
+    margin-top: -35px;
+}
+.dateme{
+    color: black;
+    width: 300px;
+    text-align: center;
+}
+
+
+
+
+
+
+@media screen and (min-width:360px) {
+    .uppertitle {
+        margin: 0px auto;
+        width: 360px;
+        height: 80px;
+        background-color: rgb(33, 62, 247);
+
+
+    }
+
+    .allcontainer {
+        width: 360px;
+        margin: 0px auto;
+        
+    }
+
+    .container3 {
+        width: 300px;
+    }
+
+    .con {
+        margin-left: 20px;
+    }
+
+    .con1 {
+        margin-left: 20px;
+    }
+
+    .con2 {
+        margin-left: -100px;
+    }
+
+
+
+
+    .container3 {
+        width: 300px;
+    }
+
+    .con {
+        margin-left: 20px;
+    }
+
+    .con1 {
+        margin-left: 0px;
+    }
+
+    .con2 {
+        margin-left: -100px;
+    }
+
+    .container3 {
+        width: 300px;
+    }
+
+    .container10 {
+        width: 300px;
+    }
+
+    .container4 {
+        width: 300px;
+    }
+
+    .container5 {
+        width: 300px;
+    }
+    .con6{
+        margin-left: -100px;
+    }
+    .con10{
+        margin-left: -60px;
+    }
+
+}
+
+.login31 {
+    margin-top: 30px;
+    margin-left: -45px;
+}
+
+.allcontainer3 {
+    margin-top: 300px;
+}
+.uppertext{
+    margin-left: 20px;
+}
+.allcontainer30{
+    width: 350px;
+    margin: 0px auto;
+    
+    
+}
+ 
